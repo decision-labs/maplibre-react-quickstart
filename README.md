@@ -22,4 +22,6 @@ npm i
 npm start
 ```
 
+This should start the application on http://localhost:3000/
+
 And voila, that's all there is to it.
